@@ -1,14 +1,4 @@
-# Probability and Statistics for Machine Learning
 
-A hands-on exploration of probability and statistics from fundamental concepts to practical machine learning applications.
-
-This repository focuses on understanding the mathematical and statistical ideas behind machine learning rather than treating them as formulas to memorize.
-
-I will implement statistical methods from scratch, visualize distributions, work with real datasets, analyze uncertainty, and connect each concept to where it is used in machine learning systems.
-
-The goal is to build a strong statistical foundation for understanding, developing, evaluating, and debugging machine learning models.
-
----
 
 
 # Why Probability and Statistics Matter in Machine Learning
